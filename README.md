@@ -2,7 +2,7 @@
 
 ## ℹ️ sobre mim / about me 
 - sou advogada formada pela USP em 2024 e, atualmente, estudante de desenvolvimento de sistemas no Centro Paula Souza / i'm a lawyer who graduated from University of São Paulo in 2024 and am currently a systems development student at Centro Paula Souza
-- meu curso apresenta diversas linguagens de programação, mas pessoalmente tenho foco em Python, HTML e CSS / my course covers several programming languages, but I personally focus on Python, HTML, and CSS
+- meu curso apresenta diversas linguagens de programação, mas tenho foco em Python, HTML e CSS / my course covers several programming languages, but I focus on Python, HTML, and CSS
 
 ## 📚 tecnologias que estudarei / technologies i will study
 <div style="display: inline_block"><br>
